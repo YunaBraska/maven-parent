@@ -110,6 +110,11 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
+                            <additionalJOptions>
+                                <additionalJOption>-html5</additionalJOption>
+                            </additionalJOptions>
+                            <nodeprecatedlist>true</nodeprecatedlist>
+                            <quiet>true</quiet>
                             <!-- disable strict checking -->
                             <additionalparam>-Xdoclint:none</additionalparam>
                         </configuration>
