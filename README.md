@@ -2,8 +2,6 @@
 
 [![License][License-Image]][License-Url] 
 [![Build][Build-Status-Image]][Build-Status-Url]
-[![Central][Central-image]][Central-Url]
-[![Javadoc][javadoc-image]][javadoc-Url]
 [![Gitter][Gitter-image]][Gitter-Url] 
 
 ### Description
