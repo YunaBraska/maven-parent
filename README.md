@@ -1,4 +1,4 @@
-# Maven oss parent
+# Yunas private maven parent
 
 [![License][License-Image]][License-Url] 
 [![Build][Build-Status-Image]][Build-Status-Url]
