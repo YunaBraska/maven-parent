@@ -6,7 +6,7 @@
 
     <groupId>berlin.yuna</groupId>
     <artifactId>maven-parent</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
@@ -110,9 +110,6 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
-                            <additionalJOptions>
-                                <additionalJOption>-html5</additionalJOption>
-                            </additionalJOptions>
                             <nodeprecatedlist>true</nodeprecatedlist>
                             <quiet>true</quiet>
                             <!-- disable strict checking -->
